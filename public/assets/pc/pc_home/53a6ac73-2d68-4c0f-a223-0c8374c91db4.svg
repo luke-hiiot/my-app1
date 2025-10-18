@@ -1,0 +1,18 @@
+<svg width="139" height="81" viewBox="0 0 139 81" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-32" y="12" width="109.5" height="100.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(16px);clip-path:url(#bgblur_0_4406_4224_clip_path);height:100%;width:100%"></div></foreignObject><g data-figma-bg-blur-radius="32">
+<path d="M0 70.5V80.5H11L45.5 54V44H35.5L0 70.5Z" fill="white" fill-opacity="0.04"/>
+<path d="M10.915 80.25L45.25 53.877V44.25H35.583L0.25 70.626V80.25H10.915Z" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
+</g>
+<foreignObject x="61.5" y="12" width="109.5" height="100.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(16px);clip-path:url(#bgblur_1_4406_4224_clip_path);height:100%;width:100%"></div></foreignObject><g data-figma-bg-blur-radius="32">
+<path d="M139 70.5V80.5H128L93.5 54V44H103.5L139 70.5Z" fill="white" fill-opacity="0.04"/>
+<path d="M128.085 80.25L93.75 53.877V44.25H103.417L138.75 70.626V80.25H128.085Z" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
+</g>
+<foreignObject x="-32" y="-10" width="109.5" height="100.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(16px);height:100%;width:100%"></div></foreignObject><path data-figma-bg-blur-radius="32" d="M10.915 58.25L45.25 31.877V22.25H35.583L0.25 48.626V58.25H10.915Z" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
+<foreignObject x="61.5" y="-10" width="109.5" height="100.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(16px);height:100%;width:100%"></div></foreignObject><path data-figma-bg-blur-radius="32" d="M128.085 58.25L93.75 31.877V22.25H103.417L138.75 48.626V58.25H128.085Z" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
+<foreignObject x="-32" y="-32" width="109.5" height="100.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(16px);height:100%;width:100%"></div></foreignObject><path data-figma-bg-blur-radius="32" d="M10.915 36.25L45.25 9.87695V0.25H35.583L0.25 26.626V36.25H10.915Z" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
+<foreignObject x="61.5" y="-32" width="109.5" height="100.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(16px);height:100%;width:100%"></div></foreignObject><path data-figma-bg-blur-radius="32" d="M128.085 36.25L93.75 9.87695V0.25H103.417L138.75 26.626V36.25H128.085Z" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
+<defs>
+<clipPath id="bgblur_0_4406_4224_clip_path" transform="translate(32 -12)"><path d="M0 70.5V80.5H11L45.5 54V44H35.5L0 70.5Z"/>
+</clipPath><clipPath id="bgblur_1_4406_4224_clip_path" transform="translate(-61.5 -12)"><path d="M139 70.5V80.5H128L93.5 54V44H103.5L139 70.5Z"/>
+</clipPath></defs>
+</svg>
